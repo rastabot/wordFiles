@@ -1,0 +1,6 @@
+C:\Users\user\documents\visual studio 2017\Projects\MyMultiThreading\MyProcess\bin\Debug\MyProcess.exe.config
+C:\Users\user\documents\visual studio 2017\Projects\MyMultiThreading\MyProcess\bin\Debug\MyProcess.exe
+C:\Users\user\documents\visual studio 2017\Projects\MyMultiThreading\MyProcess\bin\Debug\MyProcess.pdb
+C:\Users\user\documents\visual studio 2017\Projects\MyMultiThreading\MyProcess\obj\Debug\MyProcess.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2017\Projects\MyMultiThreading\MyProcess\obj\Debug\MyProcess.exe
+C:\Users\user\documents\visual studio 2017\Projects\MyMultiThreading\MyProcess\obj\Debug\MyProcess.pdb

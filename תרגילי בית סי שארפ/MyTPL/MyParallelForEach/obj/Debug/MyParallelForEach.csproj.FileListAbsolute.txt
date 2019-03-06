@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\MyTPL\MyParallelForEach\bin\Debug\MyParallelForEach.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyTPL\MyParallelForEach\bin\Debug\MyParallelForEach.exe
+c:\users\user\documents\visual studio 2017\Projects\MyTPL\MyParallelForEach\bin\Debug\MyParallelForEach.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyTPL\MyParallelForEach\obj\Debug\MyParallelForEach.exe
+c:\users\user\documents\visual studio 2017\Projects\MyTPL\MyParallelForEach\obj\Debug\MyParallelForEach.pdb

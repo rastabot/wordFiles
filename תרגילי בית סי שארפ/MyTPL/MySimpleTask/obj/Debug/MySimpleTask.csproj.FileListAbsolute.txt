@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\MyTPL\MySimpleTask\bin\Debug\MySimpleTask.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyTPL\MySimpleTask\bin\Debug\MySimpleTask.exe
+c:\users\user\documents\visual studio 2017\Projects\MyTPL\MySimpleTask\bin\Debug\MySimpleTask.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyTPL\MySimpleTask\obj\Debug\MySimpleTask.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MyTPL\MySimpleTask\obj\Debug\MySimpleTask.exe
+c:\users\user\documents\visual studio 2017\Projects\MyTPL\MySimpleTask\obj\Debug\MySimpleTask.pdb

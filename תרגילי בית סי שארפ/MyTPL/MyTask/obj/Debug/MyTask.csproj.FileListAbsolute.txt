@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\MyTPL\MyTask\bin\Debug\MyTask.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyTPL\MyTask\bin\Debug\MyTask.exe
+c:\users\user\documents\visual studio 2017\Projects\MyTPL\MyTask\bin\Debug\MyTask.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyTPL\MyTask\obj\Debug\MyTask.exe
+c:\users\user\documents\visual studio 2017\Projects\MyTPL\MyTask\obj\Debug\MyTask.pdb

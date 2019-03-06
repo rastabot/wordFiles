@@ -1,0 +1,5 @@
+C:\Users\user\documents\visual studio 2017\Projects\MyMultiThreading\MyLock\bin\Debug\MyLock.exe.config
+C:\Users\user\documents\visual studio 2017\Projects\MyMultiThreading\MyLock\bin\Debug\MyLock.exe
+C:\Users\user\documents\visual studio 2017\Projects\MyMultiThreading\MyLock\bin\Debug\MyLock.pdb
+C:\Users\user\documents\visual studio 2017\Projects\MyMultiThreading\MyLock\obj\Debug\MyLock.exe
+C:\Users\user\documents\visual studio 2017\Projects\MyMultiThreading\MyLock\obj\Debug\MyLock.pdb

@@ -1,0 +1,6 @@
+C:\Users\user\documents\visual studio 2017\Projects\MyMultiThreading\MyThreadStart\bin\Debug\MyThreadStart.exe.config
+C:\Users\user\documents\visual studio 2017\Projects\MyMultiThreading\MyThreadStart\bin\Debug\MyThreadStart.exe
+C:\Users\user\documents\visual studio 2017\Projects\MyMultiThreading\MyThreadStart\bin\Debug\MyThreadStart.pdb
+C:\Users\user\documents\visual studio 2017\Projects\MyMultiThreading\MyThreadStart\obj\Debug\MyThreadStart.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2017\Projects\MyMultiThreading\MyThreadStart\obj\Debug\MyThreadStart.exe
+C:\Users\user\documents\visual studio 2017\Projects\MyMultiThreading\MyThreadStart\obj\Debug\MyThreadStart.pdb

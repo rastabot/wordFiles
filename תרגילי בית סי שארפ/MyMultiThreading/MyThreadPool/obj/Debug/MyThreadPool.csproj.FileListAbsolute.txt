@@ -1,0 +1,6 @@
+C:\Users\user\documents\visual studio 2017\Projects\MyMultiThreading\MyThreadPool\bin\Debug\MyThreadPool.exe.config
+C:\Users\user\documents\visual studio 2017\Projects\MyMultiThreading\MyThreadPool\bin\Debug\MyThreadPool.exe
+C:\Users\user\documents\visual studio 2017\Projects\MyMultiThreading\MyThreadPool\bin\Debug\MyThreadPool.pdb
+C:\Users\user\documents\visual studio 2017\Projects\MyMultiThreading\MyThreadPool\obj\Debug\MyThreadPool.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2017\Projects\MyMultiThreading\MyThreadPool\obj\Debug\MyThreadPool.exe
+C:\Users\user\documents\visual studio 2017\Projects\MyMultiThreading\MyThreadPool\obj\Debug\MyThreadPool.pdb
